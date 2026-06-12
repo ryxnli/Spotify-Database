@@ -31,4 +31,4 @@ The goal of this project was to build a relational database, write SQL queries t
 - Star schema design
 
 ## Files
-- Spotify26_RL.sql — SQL script containing table creation, relational database structure, queries, views, and data warehousing work.
+- Spotify26_RL.sql - SQL script containing table creation, relational database structure, queries, views, and data warehousing work.
